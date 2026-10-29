@@ -12,6 +12,7 @@ your multiplayer game working faster and better.
 
 ## Features
 - This project is simply a unity scene. You just need to download it and then import it to get it working. However, you'll need to install EOS + netcode for GameObjects packages (I'll explain how to do that later)
+- This Unity scene contains the very minimum to get this working. With only 2 files (P2PManager.cs (for the EOS logic) and UIManager.cs (for the UI logic)), it contains also all the UI and the setup needed.
 
 ## To get this working  
 ### Install the packages needed:
