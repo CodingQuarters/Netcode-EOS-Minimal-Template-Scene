@@ -57,7 +57,7 @@ https://github.com/EOS-Contrib/eos_plugin_for_unity_upm.git
     }
 ```
 
-> [! NOTE]
+> [!NOTE]
 > This template is designed for those with minimal experience with [Netcode for GameObjects](https://docs.unity3d.com/Packages/com.unity.netcode.gameobjects@3.1/manual/index.html) and Epic Onlines Services such as RPCs and network Variables. This project is not perfect and you may find bugs.
 
 
