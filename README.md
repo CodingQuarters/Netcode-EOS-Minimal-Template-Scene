@@ -69,6 +69,10 @@ https://github.com/EOS-Contrib/eos_plugin_for_unity_upm.git
 - joining a lobby
 - basic UI
 
+Here is how it would look like:
+<img width="1152" height="648" alt="Untitled design" src="https://github.com/user-attachments/assets/30792ec3-1e2a-48ea-b812-6a4e5ff208be" />
+
+
 ## Limitations
 - it has only been tested on PC
 - it does not take into accounts edge cases such as closing the game and leaving a lobby
