@@ -70,7 +70,7 @@ https://github.com/EOS-Contrib/eos_plugin_for_unity_upm.git
 - basic UI
 
 Here is how it would look like:
-<img width="1152" height="648" alt="Untitled design" src="https://github.com/user-attachments/assets/30792ec3-1e2a-48ea-b812-6a4e5ff208be" />
+<img width="1600" height="900" alt="Gif Sample" src="https://github.com/user-attachments/assets/30792ec3-1e2a-48ea-b812-6a4e5ff208be" />
 
 
 ## Limitations
