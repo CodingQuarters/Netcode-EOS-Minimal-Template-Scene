@@ -38,7 +38,7 @@ https://github.com/EOS-Contrib/eos_plugin_for_unity_upm.git
 ### In Unity : 
 - open the EOS configuration window (might need to close and reopen your project for it to appear)
 - fill in everything needed (Product Name, Product Id, Version, Client, Client Secret, Sandbox, Deployment) - follow the appropriate EOS guide 
-- Import the scene (Netcode-EOS-Minimal-Template.unitypackage) that you downloaded ([Download the Project Template](/Netcode-EOS-Minimal-Template.unitypackage))
+- Import the scene (Netcode-EOS-Minimal-Template.unitypackage) that you downloaded ([Download the Project Template](/Netcode-EOS-Minimal-Template.unitypackage?download=1))
 - To confirm that it is done, playtest it by : 
     - You need two separate devices; one can be the Unity editor
     - Create the lobby on one instance and send the lobby code
