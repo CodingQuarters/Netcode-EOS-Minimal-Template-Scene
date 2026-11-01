@@ -81,6 +81,10 @@ When you first import the template into your project, there may be one error in 
 
 The package contains the template scene and its associated files. It does not include the third-party packages, which must be installed separately.
 
+Here is how it would look like:
+<img width="100%" alt="Gif Sample" src="https://github.com/user-attachments/assets/30792ec3-1e2a-48ea-b812-6a4e5ff208be" />
+
+
 ## Limitations
 - It has only been tested on PC
 - It does not handle all edge cases, such as unexpected disconnections or players leaving a lobby
