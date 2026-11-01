@@ -99,8 +99,6 @@ Once creating a lobby or joining a lobby, it starts Netcode.
 When the host presses PLAY, it calls an RPC to all the clients and they are all supposed to load the next scene. However, to keep this project minimal, the clients won't load the next scene, only the host will (see the section "Important: starting game on all clients" above for more info). Also, you cannot put a prefab in the netcode slot to automatically spawn: you need to make it spawn afterward, once the game starts.
 This template is only bridging the gap to connect and create a lobby to initializing netcode.
 
-
-
 ## Why is it a scene and not a Unity project 
 I originally wanted it to be a Unity project, but in the project's files, there would be the raw files from PlayEveryWare and Netcode, which their licenses don’t allow redistributing the package files. Therefore, you have to download the packages yourself. 
 
